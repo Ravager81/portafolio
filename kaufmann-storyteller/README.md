@@ -1,4 +1,4 @@
-# English Path
+# Kaufmann Storyteller
 
 Plataforma para que hispanohablantes aprendan inglés **de cero (A1) a dominio (C2)** con historias de la vida cotidiana, personajes recurrentes, práctica oral y repaso espaciado.
 
