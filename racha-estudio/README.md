@@ -10,7 +10,7 @@ App web sencilla para registrar sesiones de estudio y mantener una **racha de d�
 
 - Registra cada sesión con **fecha, tema y minutos**.
 - Calcula la **racha** de días consecutivos con al menos una sesión. Si hoy todavía no estudiaste, la racha sigue viva hasta que termine el día.
-- Muestra el historial de la más reciente a la más antigua.
+- Muestra el historial de sesiones, de la más reciente a la más antigua.
 - Guarda todo en el navegador (`localStorage`), así que no necesita servidor ni cuenta.
 
 ## Detalles técnicos
